@@ -1,0 +1,15 @@
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\BancoMs.csproj.AssemblyReference.cache
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\BancoMs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\BancoMs.AssemblyInfoInputs.cache
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\BancoMs.AssemblyInfo.cs
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\BancoMs.csproj.CoreCompileInputs.cache
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\bin\Debug\net6.0\BancoMs.exe
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\bin\Debug\net6.0\BancoMs.deps.json
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\bin\Debug\net6.0\BancoMs.runtimeconfig.json
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\bin\Debug\net6.0\BancoMs.dll
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\bin\Debug\net6.0\BancoMs.pdb
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\BancoMs.dll
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\refint\BancoMs.dll
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\BancoMs.pdb
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\BancoMs.genruntimeconfig.cache
+D:\Projetos\Processo_Bancario\BancoMs\BancoMs\obj\Debug\net6.0\ref\BancoMs.dll

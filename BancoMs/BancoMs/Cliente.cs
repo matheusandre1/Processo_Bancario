@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BancoMs
+namespace BancoMs.Titular;
+
+public class Cliente
 {
-    public class Cliente
-    {
-        public string nome;
-        public string cpf;
-        public string profissao;
-    }
+    public string nome { get; set; }
+    public string cpf { get; set; }
+    public string profissao { get; set; }
 }
